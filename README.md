@@ -32,7 +32,11 @@ ERPNext as a monolith includes the following areas for managing businesses:
 1. [And More](https://erpnext.com/docs/user/manual/en/)
 
 ERPNext requires MariaDB.
+<<<<<<< HEAD
 Omran
+=======
+omran-2
+>>>>>>> ee2ec8bbd7944fa04b5d6fedac86185df356c332
 ERPNext is built on the [Frappe Framework](https://github.com/frappe/frappe), a full-stack web app framework built with Python & JavaScript.
 
 - [User Guide](https://erpnext.com/docs/user)
